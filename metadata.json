@@ -1,0 +1,6 @@
+{
+  "name": "Cosmos Explorer",
+  "description": "Interactive astronomical mission console, 3D celestial observatory, and orbital telemetry system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
